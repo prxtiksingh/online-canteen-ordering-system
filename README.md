@@ -1,5 +1,5 @@
 # online-canteen-ordering-system
  
 Before You Begin:<br>
-Create a database named 'canteen'
-Goto database/ and import canteen.sql in the database.
+1. Create a database named 'canteen' <br>
+2. Goto database/ and import canteen.sql in the database.
