@@ -21,7 +21,7 @@ class sendMailD
 		$mail->Username="Your Email";  
 		$mail->Password="Your Password";   
 		  
-		$mail->SetFrom('xxxx','Root User');
+		$mail->SetFrom('Your Email','Root User');
 		$mail->Subject    = $subject;
 		$mail->MsgHTML($message);
 		if(!$mail->send()) {
